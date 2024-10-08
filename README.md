@@ -1,6 +1,6 @@
 # MEMHC3.0
 ## MEMHC 3.0 (minimal-epitope-for-maximum-MHC-coverage version 3.0)
-
+Using -Linear regression for prediction of minimal epitope numbers and maximal MHC coverage
 
 ## Objective
 
