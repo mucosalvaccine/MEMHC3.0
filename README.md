@@ -4,7 +4,7 @@ Overview
 
 MEMHC 3.0 is an AI-assisted tool designed to identify minimal yet highly effective target epitopes capable of providing broad coverage across an exhaustive list of MHC/HLA variants. This makes it especially useful for precision vaccine and immunotherapy design.
 
-Key Features
+## Key Features
 
 AI-Assisted Epitopes Selection: Utilizes pre-trained machine learning models to generate epitope candidates from any protein target.
 
@@ -12,7 +12,7 @@ Optimal MHC Coverage: Employs a linear regression pipeline to minimize the numbe
 
 Precision Design: Facilitates the design of vaccines and immunotherapies by targeting minimal epitopes with high immunogenic potential.
 
-Applications
+## Applications
 
 Vaccine Development: Streamlines the design of next-generation vaccines by focusing on immunodominant, minimal epitopes.
 
