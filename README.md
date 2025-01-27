@@ -1,7 +1,19 @@
-# MEMHC3.0
+# MEMHC3.0  
 ## MEMHC 3.0 (minimal-epitope-for-maximum-MHC-coverage version 3.0)
-MEMHC 3.0 is an AI assisted tool to select minimal and best targets epitopes that are covering for an exhative list of MHC/HLA variations. This tool could be used for percision vaccine and immunotherapy design. 
-MEMHC 3.0 uses a pre trained Machin Learning models for epitopes generation form any protein target and use a -Linear regression pipline downstream for prediction of minimal epitope numbers and maximal MHC coverage.
+Overview
+
+MEMHC 3.0 is an AI-assisted tool designed to identify minimal yet highly effective target epitopes capable of providing broad coverage across an exhaustive list of MHC/HLA variants. This makes it especially useful for precision vaccine and immunotherapy design.
+
+Key Features
+
+AI-Assisted Epitopes Selection: Utilizes pre-trained machine learning models to generate epitope candidates from any protein target.
+Optimal MHC Coverage: Employs a linear regression pipeline to minimize the number of epitopes required while maximizing coverage across diverse MHC/HLA alleles.
+Precision Design: Facilitates the design of vaccines and immunotherapies by targeting minimal epitopes with high immunogenic potential.
+
+Applications
+
+Vaccine Development: Streamlines the design of next-generation vaccines by focusing on immunodominant, minimal epitopes.
+Immunotherapy: Offers targeted solutions for cancer immunotherapies and other disease treatments, ensuring efficient T-cell activation and response.
 
 ## Objective
 
